@@ -5,8 +5,7 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WaltherFernandes/github-explorer-v2
-?style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WaltherFernandes/github-explorer-v2?style=for-the-badge">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/WaltherFernandes/github-explorer-v2?style=for-the-badge">
   <a href="https://github.com/WaltherFernandes/github-explorer-v2/commits">
