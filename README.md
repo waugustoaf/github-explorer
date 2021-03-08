@@ -5,17 +5,17 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/WaltherFernandes/github-explorer-v2?style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/waugustoaf/github-explorer-v2?style=for-the-badge">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/WaltherFernandes/github-explorer-v2?style=for-the-badge">
-  <a href="https://github.com/WaltherFernandes/github-explorer-v2/commits">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WaltherFernandes/github-explorer-v2?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/waugustoaf/github-explorer-v2?style=for-the-badge">
+  <a href="https://github.com/waugustoaf/github-explorer-v2/commits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/waugustoaf/github-explorer-v2?style=for-the-badge">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/WaltherFernandes/github-explorer-v2?style=for-the-badge">
+  <img alt="GitHub" src="https://img.shields.io/github/license/waugustoaf/github-explorer-v2?style=for-the-badge">
 
   <a href="https://github.com/waugustoaf/github-explorer-v2/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/WaltherFernandes/github-explorer-v2?style=for-the-badge">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/waugustoaf/github-explorer-v2?style=for-the-badge">
   </a>
 
   
@@ -47,7 +47,7 @@
 ---
 
 ## :book: Use Project
-1. Paste 'git clone [(repository link)](https://github.com/WaltherFernandes/github-explorer-v2.git)'.
+1. Paste 'git clone [(repository link)](https://github.com/waugustoaf/github-explorer-v2.git)'.
 2. At the project folder, open a console.
 3. Type 'yarn' to download dependecies
 4. Type 'yarn start' and open the application ath the address: http://localhost:3000
@@ -55,7 +55,7 @@
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/WaltherFernandes/github-explorer-v2/blob/main/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/waugustoaf/github-explorer-v2/blob/main/LICENSE) for more information.
 
 
 [ts]: https://www.typescriptlang.org
